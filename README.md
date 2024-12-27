@@ -1,3 +1,26 @@
+This project demonstrates how to use Shadcn’s chart components built on Recharts for creating elegant and customizable data visualizations.
+
+### Chart Examples
+
+The following chart types are included in this project:
+
+- **Bar Chart**: Ideal for comparing categories, such as sales data across months.
+- **Line Chart**: Perfect for tracking trends over time, like website traffic or performance metrics.
+- **Radix Chart**: Great for visualizing proportions, such as market share distribution.
+- **Area Chart**: Suitable for showcasing cumulative data, like revenue growth over time.
+
+## How to Use Shadcn Charts
+```bash
+npx shadcn@latest add chart
+```
+
+## Learn More
+To learn more about Shadcn and Recharts, take a look at the following resources:
+
+[Shadcn Documentation](https://ui.shadcn.com/docs) - learn about Shadcn's design system and components.
+[Recharts Documentation](https://recharts.org/) - explore all available chart types and customization options.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
